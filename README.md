@@ -30,20 +30,19 @@
 
 # 📖 [Hello_World] <a name="about-project"></a>
 
-> It is the first Microverse project to get more aquinted with git features and getting to know some 
+It is the first Microverse project to get more aquinted with git features and getting to know some 
   professional coding habits.
-
-
 
 ## 🛠 Built With <a name="HTML & CSS"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Linter was applied so as to learn how to have bug-free codes.
+Linter was applied so as to learn how to have bug-free codes.
 
 <details>
   <summary>Client</summary>
   <ul>
+    <li>HTML & CSS</li>
     <li>Linter</li>
   </ul>
 </details>
@@ -52,21 +51,22 @@
 
 ### Key Features <a name="key-features"></a>
 
-> No particular feature implemented yet. Still working on machine configs
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<ul>
+    <li>Linter</li>
+  </ul>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> The project repository is public so anyone can acess from it from my Github account.
+ The project repository is public so anyone can acess from it from my Github account.
 Then after clone it into your local machine
 
 ### Prerequisites
 
 In order to run this project you need:
+
 -A computer
 
 -A github account 
@@ -87,7 +87,7 @@ $ git clone git@github.com:myaccount/project_to clone.git
   
  ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- AUTHORS -->
 
@@ -99,19 +99,17 @@ $ git clone git@github.com:myaccount/project_to clone.git
 - Twitter: [https://twitter.com/hydalineC]
 - LinkedIn: [https://www.linkedin.com/in/charlene-djoungang-0851aa21a/]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - **[Sections]**
 - **[Headers]**
 - **[Navigation bars]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
@@ -120,15 +118,14 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- SUPPORT -->
 ## ⭐️ Show your support <a name="support"></a>
 
-> Let's Collaborate and give a star
+ Let's Collaborate and give a star
       If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -136,7 +133,7 @@ Feel free to check the [issues page](../../issues/).
 
 I would like to thank Microverse for this oppunity I get in improving myself professionally everyday.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 <!-- LICENSE -->
@@ -147,4 +144,3 @@ This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
