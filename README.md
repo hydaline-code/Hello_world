@@ -40,21 +40,19 @@ It is the first Microverse project to get more aquinted with git features and ge
 Linter was applied so as to learn how to have bug-free codes.
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li>HTML & CSS</li>
-    <li>Linter</li>
-  </ul>
+  <summary>Clients</summary>
+ 
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-<ul>
-    <li>Linter</li>
+ <ul>
+   <li>Linters</li>
+    <li>HTML and  CSS</li>
   </ul>
-<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -99,7 +97,7 @@ $ git clone git@github.com:myaccount/project_to clone.git
 - Twitter: [https://twitter.com/hydalineC]
 - LinkedIn: [https://www.linkedin.com/in/charlene-djoungang-0851aa21a/]
 
-<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
@@ -109,7 +107,7 @@ $ git clone git@github.com:myaccount/project_to clone.git
 - **[Headers]**
 - **[Navigation bars]**
 
-<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
@@ -118,7 +116,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 ## ⭐️ Show your support <a name="support"></a>
@@ -133,14 +131,12 @@ Feel free to check the [issues page](../../issues/).
 
 I would like to thank Microverse for this oppunity I get in improving myself professionally everyday.
 
-<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
